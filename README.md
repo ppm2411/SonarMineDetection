@@ -7,7 +7,7 @@ This project uses supervised machine learning to classify sonar signals as eithe
 ## 🧠 Project Highlights
 
 - Data preprocessing (label encoding, normalization)
-- Built a classification model using [**Insert Model Name**]
+- Built a classification model 
 - Evaluated using accuracy and confusion matrix
 - Achieved an accuracy of **76.19%**
 
